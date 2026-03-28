@@ -1,5 +1,5 @@
-<h1>Hi, I'm Sayooj! <br/><a M.Sc. Automotive Software Engineering student at TU Chemnitz</a>, </h1>
-
+<h1>Hi, I'm Sayooj! <br/> </h1>
+<h3><b>M.Sc. Automotive Software Engineering, TU Chemnitz</b></h3>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
