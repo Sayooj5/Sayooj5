@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi! I am Sayooj<br><br>Master’s student in Automotive Software Engineering, TU Chemnitz<br>Interested in embedded systems, firmware development, ECU validation, HiL/SIL testing, and automotive software.
 
 
