@@ -2,7 +2,7 @@
 <h3><b>M.Sc. Automotive Software Engineering, TU Chemnitz</b></h3>
 <h2>👨‍💻Projects and Scripts:</h2>
 
-- <b>[Emergency_Dispatch_System](https://github.com/Sayooj5/Emergency_Dispatch_System) </b>
+- <b>[Emergency Dispatch System](https://github.com/Sayooj5/Emergency_Dispatch_System) </b>
   - Java simulation of an emergency dispatch center that registers calls, prioritizes them by severity, and dispatches fire trucks and ambulances accordingly. 
 - <b>[Multisensorial Systems – Kalman Filter Lab](https://github.com/Sayooj5/Kalman_Filter)</b>
   - Python lab project on multi-sensor data fusion and Kalman Filter variants for autonomous vehicle trajectory estimation.
