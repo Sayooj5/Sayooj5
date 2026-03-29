@@ -1,23 +1,19 @@
 <h1>Hi, I'm Sayooj! <br/> </h1>
 <h3><b>M.Sc. Automotive Software Engineering, TU Chemnitz</b></h3>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects and Scripts:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>[Emergency_Dispatch_System](https://github.com/Sayooj5/Emergency_Dispatch_System) </b>
+  - Java simulation of an emergency dispatch center that registers calls, prioritizes them by severity, and dispatches fire trucks and ambulances accordingly. 
+- <b>[Multisensorial Systems – Kalman Filter Lab](https://github.com/Sayooj5/Kalman_Filter)</b>
+  - Python lab project on multi-sensor data fusion and Kalman Filter variants for autonomous vehicle trajectory estimation.
+- <b>[Exhaust Sensors in Motor Control Systems](https://github.com/Sayooj5/Projects/blob/main/Projects/Exhaust%20sensor%20in%20motor%20control%20system.pdf)</b>
+  - Technical survey on modern automotive exhaust gas sensors, their working principles, ECU integration, limitations, and emerging smart/optical sensing technologies for emission control.
+- <b>[U ALERT – Real-Time Parking Violation Detection](https://github.com/Sayooj5/Projects/blob/main/Projects/Real_Time_Parking_Violation_Detection.pdf)</b>
+  - Embedded hardware concept using ultrasonic sensing and discrete electronics to detect and signal real-time parking violations in restricted or emergency-only zones.
+ - <b>[Deep Reinforcement Learning for Edge-Case Adaptation in ADAS](https://github.com/Sayooj5/Projects/blob/main/Projects/Deep_Reinforcement_Learning_For_Edge_Case_Adaptation.pdf)</b>
+   - Deep RL architecture with attention, LSTMs, and Dueling DDQN to handle rare driving edge cases in ADAS, modeled as an MDP and trained in simulation.
+- <b>[Decentralized Music Platform (ETHERly)](https://github.com/Sayooj5/Projects/blob/main/Projects/Decentralized_Music_Platform.pdf)</b>
+  - Blockchain-based music streaming App that uses Ethereum smart contracts to automate transparent royalty distribution, with a web frontend built in Bootstrap Studio.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayooj-kundany-surej/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayoojsoorej5@gmail.com) 
