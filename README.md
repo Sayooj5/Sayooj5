@@ -6,6 +6,8 @@
   - Java simulation of an emergency dispatch center that registers calls, prioritizes them by severity, and dispatches fire trucks and ambulances accordingly. 
 - <b>[Multisensorial Systems – Kalman Filter Lab](https://github.com/Sayooj5/Kalman_Filter)</b>
   - Python lab project on multi-sensor data fusion and Kalman Filter variants for autonomous vehicle trajectory estimation.
+  - <b>[AOCS Model – CubeSat Reaction Wheel](https://github.com/Sayooj5/AOCS)</b>
+  - MATLAB/Simulink model of the Attitude and Orbit Control System for a 3U CubeSat; reaction wheel physics implemented so far, with controller design to follow.
 - <b>[Exhaust Sensors in Motor Control Systems](https://github.com/Sayooj5/Projects/blob/main/Projects/Exhaust%20sensor%20in%20motor%20control%20system.pdf)</b>
   - Technical survey on modern automotive exhaust gas sensors, their working principles, ECU integration, limitations, and emerging smart/optical sensing technologies for emission control.
 - <b>[U ALERT – Real-Time Parking Violation Detection](https://github.com/Sayooj5/Projects/blob/main/Projects/Real_Time_Parking_Violation_Detection.pdf)</b>
